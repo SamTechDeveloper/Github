@@ -1,3 +1,13 @@
+#--------------------------------------------------------------------------
+#  ____   ____
+# / ___| / ___|  | Author:       Sameer Ghanekar 
+# \___ \| |  _   | Last Updated: Sun Mar 12 13:00:56 IST 2023
+#  ___) | |_| |  | Description:  Configuration file for Starship prompt.
+# |____/ \____|  |
+#
+#--------------------------------------------------------------------------
+
+
 # Get editor completions based on the config schema
 "$schema" = 'https://starship.rs/config-schema.json'
 
