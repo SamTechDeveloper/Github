@@ -46,3 +46,17 @@ truncate_to_repo = false
 
 [fill]
 symbol = ' '
+
+[username]
+style_user = 'green bold'
+style_root = 'red bold'
+format = '[$user]($style)'
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+style = 'bold green'
+format = '[@$hostname]($style):'
+trim_at = ''
+disabled = false
